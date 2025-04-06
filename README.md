@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+These are the results of my programming assignments for the COC Advanced data structures course.
 
 ## Folder Structure
 
